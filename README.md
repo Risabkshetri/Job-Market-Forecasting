@@ -1,3 +1,8 @@
+# ⚠️ Demo Version Notice
+
+> This repository contains the **demo/public version of Zobique**.  
+> The complete production-grade version, core AI systems, and advanced architecture are maintained in a **private repository**.
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Alice&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+Zobique!;+Your+Unique+way;+To+Find+Jobs!" />
 </h1>
